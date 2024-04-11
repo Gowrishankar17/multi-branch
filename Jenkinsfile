@@ -1,2 +1,2 @@
-@Library('library') _
+@Library('library')_
 myPipeline()
